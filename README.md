@@ -1,4 +1,4 @@
-# Portfólio - Renata Lima
+# Portfólio
 
 Bem-vindo ao meu portfólio pessoal!
 
