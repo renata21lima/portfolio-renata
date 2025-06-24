@@ -1,6 +1,6 @@
 # Portfólio
 
-Bem-vindo ao meu portfólio pessoal!
+Bem-vindo ao meu portfólio!
 
 Aqui compartilho meus projetos, habilidades e experiências em desenvolvimento.
 
